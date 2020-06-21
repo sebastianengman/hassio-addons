@@ -12,5 +12,7 @@
         "16000/tcp": 16000,
         "8088/tcp": 8088
     },
+    "options": {},
+    "schema": {},
     "image": "sebastianengman/spc-web-gateway"
 }
