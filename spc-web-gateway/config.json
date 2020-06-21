@@ -8,7 +8,7 @@
     "startup": "initialize",
     "boot": "auto",
     "webui": "http://[HOST]:[PORT:8088]",
-    "map": ["config"],
+    "map": ["config:rw"],
     "ports": {
         "16000/tcp": 16000,
         "8088/tcp": 8088
