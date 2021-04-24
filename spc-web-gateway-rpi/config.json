@@ -1,0 +1,19 @@
+{
+    "name": "Hass.io spc-web-gateway",
+    "version": "0.100.0",
+    "slug": "hassio_spc_web_gateway",
+    "description": "Run SPC Web Gateway in Hass.io",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "url": "https://github.com/sebastianengman/hassio-addons/spc-web-gateway",
+    "startup": "initialize",
+    "boot": "auto",
+    "webui": "http://[HOST]:[PORT:8088]",
+    "map": ["config:rw"],
+    "ports": {
+        "16000/tcp": 16000,
+        "8088/tcp": 8088
+    },
+    "options": {},
+    "schema": {},
+    "image": "sebastianengman/spc-web-gateway"
+}
