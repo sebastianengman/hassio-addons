@@ -15,5 +15,5 @@
     },
     "options": {},
     "schema": {},
-    "image": "sebastianengman/spc-rpi-stretch:latest"
+    "image": "sebastianengman/spc-rpi-stretch"
 }
