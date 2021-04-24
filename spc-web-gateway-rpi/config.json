@@ -1,8 +1,8 @@
 {
     "name": "Hass.io spc-web-gateway arm64",
     "version": "0.100.1",
-    "slug": "hassio_spc_web_gateway_arm64",
-    "description": "Run SPC Web Gateway in Hass.io",
+    "slug": "spc_web_gateway_arm64",
+    "description": "Run SPC Web Gateway in Hass.io ARM64",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "url": "https://github.com/sebastianengman/hassio-addons/tree/master/spc-web-gateway-rpi",
     "startup": "initialize",
