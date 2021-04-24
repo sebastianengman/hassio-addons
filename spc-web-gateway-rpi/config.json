@@ -1,6 +1,6 @@
 {
     "name": "Hass.io spc-web-gateway arm64",
-    "version": "0.100.1",
+    "version": "latest",
     "slug": "spc_web_gateway_arm64",
     "description": "Run SPC Web Gateway in Hass.io ARM64",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
